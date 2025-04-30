@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import com.comcas.crm.objectrepositoryutility.LoginPage;
 
-public class A {
+public class B {
 	WebDriver driver=new ChromeDriver();
 	
 	@Test
