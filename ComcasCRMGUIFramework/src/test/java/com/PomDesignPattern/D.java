@@ -8,6 +8,7 @@ import com.comcas.crm.objectrepositoryutility.LoginPage;
 
 public class D {
 	WebDriver driver=new ChromeDriver();
+	String ele1;
 	
 	@Test
 public void a1()
