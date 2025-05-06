@@ -11,7 +11,7 @@ public class D {
 	
 	@Test
 public void a1()
-{
+{ System.out.println("1");
 		driver.get("http://localhost:8888");
 		LoginPage l=new LoginPage(driver);
 		l.getUsernameEdt().sendKeys("admin");
